@@ -2,7 +2,7 @@
 
 ## Adding a New Post
 
-[New Post](https://.github.io/newpost/)
+[New Post](https://dspira-lessons.github.io/newpost/)
 
 ## LLM Policy
 
