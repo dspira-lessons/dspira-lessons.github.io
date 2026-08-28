@@ -26,7 +26,7 @@ categories: ['Lessson Category']
 - Every *post* can have one `tag` or multiple `tags`. It will automatically split a string entry if it contains whitespace. The website software  Jekyll expects multiple items mapped to the key tags For example, while front matter `tag: classic hollywood` will be processed into a singular entity `"classic hollywood"`, front matter `tags: classic hollywood` will be processed into an array of entries `["classic", "hollywood"]`. 
 - `categories` or `category` work the same way as tags.
 
-- After the front matter make your lesson post formatting it in `markdown` refer to this cheat sheet [https://github.com/WVURAIL/dspira-lessons/wiki/Markdown-Cheatsheet](https://github.com/WVURAIL/dspira-lessons/wiki/Markdown-Cheatsheet)
+- After the front matter make your lesson post formatting it in `markdown` refer to this cheat sheet [https://github.com/dspira-lessons/dspira-lessons/wiki/Markdown-Cheatsheet](https://github.com/dspira-lessons/dspira-lessons/wiki/Markdown-Cheatsheet)
 
 - Add buttons to link to a pdf of your document using this syntax
 
@@ -59,13 +59,13 @@ The above video is a video of Kermit the frog singing the rainbow connention
 
 To add images to your post first upload your image to github by going to the link below  upload and commit an image to the the images directory: 
 
-[Upload image](https://github.com/WVURAIL/dspira-lessons/upload/master/images){: .button}
+[Upload image](https://github.com/dspira-lessons/dspira-lessons/upload/master/images){: .button}
 
 Then add the following to the post you are editing
 ```
 ![write-a-brief-alt-text-describing-your-image]({{ site.baseurl }}/images/name-of-you-image-file.FORMAT)
 ```
-### View the live webpage: [wvurail.org/dspira-lessons](http://wvurail.org/dspira-lessons/)
+### View the live webpage: [dspira-lessons.github.io/](http://dspira-lessons.github.io/)
 
 
 ##  Edit your post in the text area below 
@@ -94,7 +94,7 @@ Enter the Lesson posts here
 </div>
 
 <div> Upload your saved file to the website by uploading and commiting on github.com: &nbsp;
- <a href="https://github.com/WVURAIL/dspira-lessons/upload/master/_posts" class = "button">Upload to Website</a>
+ <a href="https://github.com/dspira-lessons/dspira-lessons/upload/master/_posts" class = "button">Upload to Website</a>
 </div>
 
 <script type="text/javascript">

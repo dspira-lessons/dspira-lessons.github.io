@@ -4,7 +4,7 @@ title: DSPIRA Forum
 permalink: /forum/
 ---
 
-Use the following Discussion Rooms or use [GitHub Discussions](https://github.com/WVURAIL/dspira-lessons/discussions){: .button}
+Use the following Discussion Rooms or use [GitHub Discussions](https://github.com/dspira-lessons/dspira-lessons/discussions){: .button}
 # Discussion Rooms 
 
 [Antennas Forum]({{ site.baseurl }}/forum/antennas/){: .button}
@@ -20,7 +20,7 @@ Use the following Discussion Rooms or use [GitHub Discussions](https://github.co
 ## General Discussions
 
 <script src="https://utteranc.es/client.js"
-        repo="WVURAIL/dspira-lessons"
+        repo="dspira-lessons/dspira-lessons"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"

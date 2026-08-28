@@ -15,17 +15,17 @@ category: Telescope Hardware Setup
 
 **Instructions for assembling the horn and base, and acquiring the needed electronic components:**
 
-[1. **Horn-Can Assembly**](https://wvurail.org//dspira-lessons/Horn_can) - Details on assembling the can with the horn panels are provided here.
+[1. **Horn-Can Assembly**](https://dspira-lessons.github.io//Horn_can) - Details on assembling the can with the horn panels are provided here.
 
-[2. **The Horn Cradle**](https://wvurail.org/dspira-lessons/FilesUploaded/Cradle_Assembly_2021.pdf) - Includes instructions for assembling a frame to support the horn.
+[2. **The Horn Cradle**](https://dspira-lessons.github.io/FilesUploaded/Cradle_Assembly_2021.pdf) - Includes instructions for assembling a frame to support the horn.
 
-[3. **The Base Stand**](https://wvurail.org/dspira-lessons/FilesUploaded/Stand_Assembly_2021.pdf) - Provides instructions for building a simple, sturdy base for the telescope.
+[3. **The Base Stand**](https://dspira-lessons.github.io/FilesUploaded/Stand_Assembly_2021.pdf) - Provides instructions for building a simple, sturdy base for the telescope.
 
 [4. **A Completed Horn Assembled**](https://youtu.be/LT0h3Frd-_k) - A video showing how the horn-can, cradle, and base stand are assembled.
 
-[5. **Other Horn Designs**](https://wvurail.org//dspira-lessons/Other_Horn_Designs) - Links to a DSPIRA mini-horn and to similar non-DSPIRA designs are provided here.
+[5. **Other Horn Designs**](https://dspira-lessons.github.io//Other_Horn_Designs) - Links to a DSPIRA mini-horn and to similar non-DSPIRA designs are provided here.
 
-[6. **The Low Noise Amplifier (LNA)**](https://wvurail.org//dspira-lessons/LNA) - This is a critical component for successful telescope operation.
+[6. **The Low Noise Amplifier (LNA)**](https://dspira-lessons.github.io//LNA) - This is a critical component for successful telescope operation.
 
-[7. **Software Defined Radio (SDR) Options**](https://wvurail.org//dspira-lessons/SDR) - An SDR is needed for digitizing the radio signal for the computer.
+[7. **Software Defined Radio (SDR) Options**](https://dspira-lessons.github.io//SDR) - An SDR is needed for digitizing the radio signal for the computer.
 

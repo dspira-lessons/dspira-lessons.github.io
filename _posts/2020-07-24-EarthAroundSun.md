@@ -24,7 +24,7 @@ There are (up to) 6 activities to get to using the Horn Telescope
 ## 1. How Fast Are We Moving?   
    This activity is a stand alone activity that is a good simple exercise for students from general middle school space science up to high school physics students
    to determine the speed of the Earth's rotation, revolution around the Sun, and the Sun's speed around the Galaxy.
-######   >To get to the activity files, click here [How Fast Are We Moving?](http://wvurail.org/dspira-lessons/HowFastAreWeMoving)   
+######   >To get to the activity files, click here [How Fast Are We Moving?](http://dspira-lessons.github.io/HowFastAreWeMoving)   
    
 ## 2. Modeling Earth's Motion around the Sun    
 The Earth will be modeled as moving in a circle around the Sun.  The direction to the Center of the Galaxy(GC) is also included becuase it will eventually be needed for the 
@@ -76,8 +76,8 @@ This is an opportunity to gather the whole class data and discuss the results.  
 
 If you have a DSPIRA Radio Horn Telescope and the electronic means to use it, then there is an opportunity to have the students gather actual data from the Center of the Galaxy and run their own spectrum through the same set of analysis that was done in this activity sequence (namely, acitivities 2, 5, and 6)  
 
-![Students Observing the Galactic Center with a Radio Horn](/dspira-lessons/images/Students_Obs_GC.png)  
-<img src="/dspira-lessons/images/Students_Obs_GC.png" width="324" height="324">
+![Students Observing the Galactic Center with a Radio Horn](/images/Students_Obs_GC.png)  
+<img src="/images/Students_Obs_GC.png" width="324" height="324">
 
 ###### *Students Observing the Galactic Center with a Radio Horn
 

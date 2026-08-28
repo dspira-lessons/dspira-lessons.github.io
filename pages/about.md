@@ -26,7 +26,7 @@ layout: default
 </div>
 <div>
         <a href="https://hermandspira2018.travellerspoint.com/" class="button">Tad's Blog</a>
-        <a href="http://wvurail.org/dspira-2019/" class="button">RET - DSPiRA: Summer 2019</a>
-        <a href="http://wvurail.org/dspira-2018/" class="button">RET - DSPiRA: Summer 2018</a>
-        <a href="http://wvurail.org/dspira-2017/" class="button">RET - DSPiRA: Summer 2017</a>
+        <a href="http://dspira-lessons.github.io/dspira-2019/" class="button">RET - DSPiRA: Summer 2019</a>
+        <a href="http://dspira-lessons.github.io/dspira-2018/" class="button">RET - DSPiRA: Summer 2018</a>
+        <a href="http://dspira-lessons.github.io/dspira-2017/" class="button">RET - DSPiRA: Summer 2017</a>
 </div>

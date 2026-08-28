@@ -9,7 +9,7 @@ categories: ['Telescope Operation']
 
 [Instructional video](https://youtu.be/r8iYuaiFOd8) - Demonstrates steps for calibrating the horn telescope.
 
-[<img src="/dspira-lessons/images/CHIME_dishes.jpg" width="400" height="300" />](https://youtu.be/r8iYuaiFOd8)
+[<img src="/images/CHIME_dishes.jpg" width="400" height="300" />](https://youtu.be/r8iYuaiFOd8)
 
 #### Some preliminary pointers: 
 

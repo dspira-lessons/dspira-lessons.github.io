@@ -112,12 +112,12 @@
 
 <h2 id="51-iq-signals-or-what-is-up-with-all-the-complex-numbers">5.1. IQ signals <em>or</em> What is up with all the Complex Numbers</h2>
 
-<p>If you remember from the <a href="/dspira-lessons/dsplab-sdr/#21-introduction">lab 2 introduction</a> an SDR dongle passes the incoming signal through a mixer where the receiver sets the frequency you observe by setting the “LO” frequency which is mixed (multiplied) with the incoming signal.  The signal is actually mixed with 2 LO’s, one cosine wave and one sine wave.  This is called quadrature sampling, and is done so that it is possible to distinguish a signal that is some frequency(say 2MHz) below the “LO” frequency, or 2MHz above the LO frequency.  With just a single mixing and one measurement, one just cannot distinguish between a signal at those two frequencies.</p>
+<p>If you remember from the <a href="/dsplab-sdr/#21-introduction">lab 2 introduction</a> an SDR dongle passes the incoming signal through a mixer where the receiver sets the frequency you observe by setting the “LO” frequency which is mixed (multiplied) with the incoming signal.  The signal is actually mixed with 2 LO’s, one cosine wave and one sine wave.  This is called quadrature sampling, and is done so that it is possible to distinguish a signal that is some frequency(say 2MHz) below the “LO” frequency, or 2MHz above the LO frequency.  With just a single mixing and one measurement, one just cannot distinguish between a signal at those two frequencies.</p>
 
 <p><img src="images/05/img/iq.png" alt="IQ" />
 <a href="#image-credits">Credit</a></p>
 
-<p><a href="/dspira-lessons/iq/">See this jupyter notebook</a> for an introduction to the idea.</p>
+<p><a href="/iq/">See this jupyter notebook</a> for an introduction to the idea.</p>
 
 <p>Now demonstrate IQ processing in gnuradio.  We can demonstrate this at much lower frequencies as well.  Set the sample-rate to 48kHz.  Create 2 tones(cosine signals), one at 8kHz, one at 12kHz.  Create your LO at 10kHz, one a cosine and one a sine.</p>
 
@@ -1109,7 +1109,7 @@ NOAA 19 – 137.1000 MHz</p>
 
 <h2 id="11-installing-gnuradio">1.1. Installing GNURadio</h2>
 
-<p><a href="/dspira-lessons/BuildingHorn_SoftwareInfo" class="button">Software Info</a></p>
+<p><a href="/BuildingHorn_SoftwareInfo" class="button">Software Info</a></p>
 
 <p><a href="#">↑ Go to the Top of the Page</a></p>
 
@@ -1509,7 +1509,7 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
                     <![CDATA[
                     <ul>
   <li>
-    <p>Installation of any of the following software options will allow the user to run the spectrometer program to operate a horn telescope that is equipped with an LNA, software defined radio (Airspy or equivalent), and the proper cables. See the document <a href="https://wvurail.org/dspira-lessons/BuildingHornTelescope_Overview">What is Needed to Build a Horn Telescope</a> and links therein for more details about the telescope system.</p>
+    <p>Installation of any of the following software options will allow the user to run the spectrometer program to operate a horn telescope that is equipped with an LNA, software defined radio (Airspy or equivalent), and the proper cables. See the document <a href="https://dspira-lessons.github.io/BuildingHornTelescope_Overview">What is Needed to Build a Horn Telescope</a> and links therein for more details about the telescope system.</p>
   </li>
   <li>
     <p>Different options for operating the horn telescope spectrometer program, <em>spectrometer_w_cal.grc</em>, are presented here. The options provided vary depending on the user’s computer system and his or her comfort level working with computers.</p>
@@ -1520,7 +1520,7 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
 
 <ol>
   <li>
-    <p><a href="https://wvurail.org/dspira-lessons/Install_Ubuntu_spectrometer_onFlashdrive">Download a fully operating image onto a flash drive that can be operated from most computer systems.</a></p>
+    <p><a href="https://dspira-lessons.github.io/Install_Ubuntu_spectrometer_onFlashdrive">Download a fully operating image onto a flash drive that can be operated from most computer systems.</a></p>
 
     <ul>
       <li>
@@ -1548,12 +1548,12 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
         </ul>
       </li>
       <li>
-        <p>Click <a href="https://wvurail.org/dspira-lessons/Install_Ubuntu_spectrometer_onFlashdrive">here</a> for installation instructions.</p>
+        <p>Click <a href="https://dspira-lessons.github.io/Install_Ubuntu_spectrometer_onFlashdrive">here</a> for installation instructions.</p>
       </li>
     </ul>
   </li>
   <li>
-    <p><a href="https://wvurail.org/dspira-lessons/BuildingHorn_SoftwareInfo">Install the free &amp; open-source software, <em>GnuRadio</em>, on a Linux system operating Ubuntu 20.04.</a></p>
+    <p><a href="https://dspira-lessons.github.io/BuildingHorn_SoftwareInfo">Install the free &amp; open-source software, <em>GnuRadio</em>, on a Linux system operating Ubuntu 20.04.</a></p>
 
     <ul>
       <li>
@@ -1572,7 +1572,7 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
         <p>After installation, the computer will be able to run the telescope system directly.</p>
       </li>
       <li>
-        <p>Click <a href="https://wvurail.org/dspira-lessons/BuildingHorn_SoftwareInfo">here</a> for installation instructions.</p>
+        <p>Click <a href="https://dspira-lessons.github.io/BuildingHorn_SoftwareInfo">here</a> for installation instructions.</p>
       </li>
     </ul>
   </li>
@@ -1621,7 +1621,7 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
   <li>The following is a picture of a typical soldering station. It is also called a rework station. The setup shown was purchased from Amazon for about $100. You can also go online and search for soldering irons, hot air guns, rework stations, and soldering stations.</li>
 </ol>
 
-<p><img src="/dspira-lessons/images/SolderingStation.JPG" alt="A Typical Soldering Station" /></p>
+<p><img src="/images/SolderingStation.JPG" alt="A Typical Soldering Station" /></p>
 
 <h3 id="second-order-and-purchase-the-components-of-the-lna">Second: Order and Purchase the Components of the LNA</h3>
 
@@ -1800,7 +1800,7 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
 
 <p>Clicking on the following link will download the zip file to your computer. On a Mac computer it will automatically un-zip to your Downloads folder. On computers running Ubuntu, you will need to un-zip the file before using it in GNURadio. You can leave the un-zipped file in the Downloads folder.</p>
 
-<p><a href="/dspira-lessons/images/Fourier_Series_Wave_Explorer.grc.zip">GNURadio .grc file for Fourier Activity</a></p>
+<p><a href="/images/Fourier_Series_Wave_Explorer.grc.zip">GNURadio .grc file for Fourier Activity</a></p>
 
                     ]]>
                 </content:encoded>
@@ -1945,7 +1945,7 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
     <p>Also install the following package: <code class="highlighter-rouge">sudo apt install git cmake liborc-0.4-dev</code></p>
   </li>
   <li>
-    <p>To clone the repository: in the terminal, type and Enter: <code class="highlighter-rouge">git clone https://github.com/WVURAIL/gr-radio_astro.git</code></p>
+    <p>To clone the repository: in the terminal, type and Enter: <code class="highlighter-rouge">git clone https://github.com/WVURAIL/gr-radio_astro</code></p>
   </li>
   <li>
     <p>Switch to the gr-radio_astro directory: <code class="highlighter-rouge">cd gr-radio_astro</code></p>
@@ -2185,7 +2185,7 @@ They are short clips from the his 2nd lecture given to the DSPIRA Teachers durin
                     <![CDATA[
                     <p><a href="https://youtu.be/r8iYuaiFOd8" class="button">Instructional video</a></p>
 
-<p><a href="https://youtu.be/r8iYuaiFOd8"><img src="/dspira-lessons/images/CHIME_dishes.jpg" width="400" height="300" /></a></p>
+<p><a href="https://youtu.be/r8iYuaiFOd8"><img src="/images/CHIME_dishes.jpg" width="400" height="300" /></a></p>
 
 <h4 id="some-preliminary-pointers">Some preliminary pointers:</h4>
 
@@ -2285,7 +2285,7 @@ They are short clips from the his 2nd lecture given to the DSPIRA Teachers durin
   <li>
     <p>Check the user-defined settings illustrated below. These are the <code class="highlighter-rouge">Variable</code> blocks in the upper right corner of the Gnuradio canvas.</p>
 
-    <p><img src="/dspira-lessons/images/UserDefinedBlocks.png" alt="User-defined blocks" /></p>
+    <p><img src="/images/UserDefinedBlocks.png" alt="User-defined blocks" /></p>
 
     <ul>
       <li>
@@ -2334,7 +2334,7 @@ They are short clips from the his 2nd lecture given to the DSPIRA Teachers durin
   <li>The first screen that appears looks like the following:</li>
 </ul>
 
-<p><img src="/dspira-lessons/images/filtered_nocal.png" alt="Opening screen" /></p>
+<p><img src="/images/filtered_nocal.png" alt="Opening screen" /></p>
 
 <ul>
   <li>
@@ -2414,19 +2414,19 @@ They are short clips from the his 2nd lecture given to the DSPIRA Teachers durin
                 <link>http://localhost:4000/HornOperation_Tutorials</link>
                 <content:encoded>
                     <![CDATA[
-                    <p><a href="https://wvurail.org/dspira-lessons/HornOperation_Intro" class="button">Introduction to the horn telescope</a></p>
+                    <p><a href="https://dspira-lessons.github.io/HornOperation_Intro" class="button">Introduction to the horn telescope</a></p>
 
 <p><a href="https://youtu.be/Oo28QCEZe_g" class="button">Setting up the horn telescope (video)</a></p>
 
-<p><a href="https://wvurail.org/dspira-lessons/HornOperation_spectrometer_description" class="button">Description of the spectrometer program</a></p>
+<p><a href="https://dspira-lessons.github.io/HornOperation_spectrometer_description" class="button">Description of the spectrometer program</a></p>
 
 <p><a href="https://youtu.be/50B2Uv-SoDY" class="button">Description of the spectrometer program (video)</a></p>
 
-<p><a href="https://wvurail.org/dspira-lessons/HornOperation_runningSpectrometer" class="button">How to run the spectrometer</a></p>
+<p><a href="https://dspira-lessons.github.io/HornOperation_runningSpectrometer" class="button">How to run the spectrometer</a></p>
 
 <p><a href="https://youtu.be/dWX0rRU99Z8" class="button">How to save data using the spectrometer (video)</a></p>
 
-<p><a href="http://wvurail.org/dspira-lessons/HornOperation_Calibration" class="button">How to Calibrate the Horn Telescope (document &amp; video)</a></p>
+<p><a href="http://dspira-lessons.github.io/HornOperation_Calibration" class="button">How to Calibrate the Horn Telescope (document &amp; video)</a></p>
 
 
                     ]]>
@@ -2457,7 +2457,7 @@ They are short clips from the his 2nd lecture given to the DSPIRA Teachers durin
 
     <ul>
       <li>the front end horn <a href="https://drive.google.com/file/d/1qdc5lhKErFyIsc8b52ZIkCPJLi-XykSb/view?usp=sharing">Click here for horn details</a></li>
-      <li>the back end can and feedthrough antenna <a href="https://wvurail.org/dspira-lessons/AssemblingtheCAN">Click here for CAN details</a></li>
+      <li>the back end can and feedthrough antenna <a href="https://dspira-lessons.github.io/AssemblingtheCAN">Click here for CAN details</a></li>
       <li>the front end and back end support stand <a href="https://drive.google.com/file/d/1qdc5lhKErFyIsc8b52ZIkCPJLi-XykSb/view?usp=sharing">Click here for stand details</a></li>
     </ul>
   </li>
@@ -2467,7 +2467,7 @@ They are short clips from the his 2nd lecture given to the DSPIRA Teachers durin
     <p>All of the following work fine for use with the horn telescope. The DSPIRA LNA is the most stable and long lasting.</p>
 
     <ul>
-      <li>Best option: the DSPIRA LNA – click on the <a href="http://wvurail.org/dspira-lessons/DetailedLNAInstructions">Detailed Information and Instructions Link</a></li>
+      <li>Best option: the DSPIRA LNA – click on the <a href="http://dspira-lessons.github.io/DetailedLNAInstructions">Detailed Information and Instructions Link</a></li>
       <li>Next best option: <a href="https://www.nooelec.com/store/sdr/sdr-addons/sawbird-h1.html">Nooelec SAWbird+ H1</a> - Premium SAW Filter &amp; Cascaded Ultra-Low Noise Amplifier (LNA) Module for Hydrogen Line (21cm) Applications</li>
       <li>Next best option: <a href="https://www.tindie.com/products/gpio/radio-astronomy-hydrogen-line-low-noise-amplifier/">Radio Astronomy Hydrogen Line Low Noise Amplifier</a></li>
     </ul>
@@ -2569,7 +2569,7 @@ Students already exposed to the Universal Law of Gravity and Circular Motion wil
 
 <h3 id="1-features-of-the-spectrum-tab"><strong>1.	Features of the <em>Spectrum</em> Tab</strong></h3>
 
-<p><img src="/dspira-lessons/images/filtered_nocal.png" alt="spectrometer screen" /></p>
+<p><img src="/images/filtered_nocal.png" alt="spectrometer screen" /></p>
 
 <ul>
   <li>
@@ -2645,7 +2645,7 @@ Students already exposed to the Universal Law of Gravity and Circular Motion wil
 
     <ul>
       <li>
-        <p><strong>Clipped spectrum</strong> – In this display the ends of the spectrum, between 1414 and 1415 MHz and between 1423 and 1424 MHz, are clipped off. This removes the distracting background portions of the spectrum, as discussed in the <em>The System Background Signal</em> in the <a href="http://wvurail.org/dspira-lessons/HornOperation_Intro">What Can a Horn Telescope Measure?</a> post.</p>
+        <p><strong>Clipped spectrum</strong> – In this display the ends of the spectrum, between 1414 and 1415 MHz and between 1423 and 1424 MHz, are clipped off. This removes the distracting background portions of the spectrum, as discussed in the <em>The System Background Signal</em> in the <a href="http://dspira-lessons.github.io/HornOperation_Intro">What Can a Horn Telescope Measure?</a> post.</p>
       </li>
       <li>
         <p><strong>Full spectrum</strong> – This is self explanatory.</p>
@@ -2675,7 +2675,7 @@ Students already exposed to the Universal Law of Gravity and Circular Motion wil
 
 <h3 id="2-features-of-the-system-tempgain-tab"><strong>2.	Features of the <em>System Temp/Gain</em> Tab</strong></h3>
 
-<p><img src="/dspira-lessons/images/sys_T&amp;G.png" alt="System Temp/Gain screen" /></p>
+<p><img src="/images/sys_T&amp;G.png" alt="System Temp/Gain screen" /></p>
 
 <ul>
   <li>
@@ -2719,7 +2719,7 @@ Because it is an antenna, a horn telescope will pick up all radio waves that are
 
 <p>The graph below shows a typical spectrum of radio waves from neutral hydrogen detected using the DSPIRA spectrometer program with a horn.</p>
 
-<p><img src="/dspira-lessons/images/Sample_spectrum.png" alt="sample spectrum" /></p>
+<p><img src="/images/Sample_spectrum.png" alt="sample spectrum" /></p>
 
 <p>This graph displays the amplitude of radio wave signals collected as the spectrometer scans across frequencies ranging from 1414 MHz to 1424 MHz. The neutral hydrogen signal appears at approximately 1420.4 MHz.</p>
 
@@ -2729,7 +2729,7 @@ Because it is an antenna, a horn telescope will pick up all radio waves that are
 
 <p>As mentioned above, part of the signal displayed in the graph is from sources that are not from the galaxy. This can be from noise sources in the local environment as well as signals from the horn detector system itself. The part of the signal that comes from the horn system itself, which includes the electronics and data signal processing, is highlighted in red in the graph below, which is typical for the Airspy software defined radio device used with the DSPIRA telescope.</p>
 
-<p><img src="/dspira-lessons/images/Sample_spectrum_Fig2.png" alt="spectrum background" /></p>
+<p><img src="/images/Sample_spectrum_Fig2.png" alt="spectrum background" /></p>
 
 <p>If the telescope is pointed in many different directions, such as different parts of the sky, at the ground, at a building or a tree, the viewer will notice that the characteristic feature highlighted in the spectrum above does not change in shape. For stronger signals, the height of the graph will increase, but this general background shape is always there. This is a result of the data signal processing electronics of the telescope system.</p>
 
@@ -2741,7 +2741,7 @@ Because it is an antenna, a horn telescope will pick up all radio waves that are
 
 <p>For spectral line viewing, the peak that we are interested in is the small peak that may appear at a frequency of approximately 1420.4 MHz. This is the peak identified in the spectrum below.</p>
 
-<p><img src="/dspira-lessons/images/HornIntro_Fig3.png" alt="spectrum HI peak" /></p>
+<p><img src="/images/HornIntro_Fig3.png" alt="spectrum HI peak" /></p>
 
 <p>This 1420.4 MHz signal is from radio waves detected from neutral hydrogen atoms in our galaxy. These radio waves are emitted from these hydrogen atoms as a result of a transition that takes place with the electrons in the atoms. The signal emitted from each atom is extremely weak. Fortunately there is a very large amount of neutral hydrogen in our galaxy; so we are able to detect this hydrogen with our radio telescope here on earth. We cannot see these hydrogen atoms directly with the naked eye. This is where the horn radio telescope becomes useful!</p>
 
@@ -2830,7 +2830,7 @@ They are short clips from the his 2nd lecture given to the DSPIRA Teachers durin
 <h2 id="1-how-fast-are-we-moving">1. How Fast Are We Moving?</h2>
 <p>This activity is a stand alone activity that is a good simple exercise for students from general middle school space science up to high school physics students
    to determine the speed of the Earth’s rotation, revolution around the Sun, and the Sun’s speed around the Galaxy.</p>
-<h6 id="to-get-to-the-activity-files-click-here-how-fast-are-we-moving">&gt;To get to the activity files, click here <a href="http://wvurail.org/dspira-lessons/HowFastAreWeMoving">How Fast Are We Moving?</a></h6>
+<h6 id="to-get-to-the-activity-files-click-here-how-fast-are-we-moving">&gt;To get to the activity files, click here <a href="http://dspira-lessons.github.io/HowFastAreWeMoving">How Fast Are We Moving?</a></h6>
 
 <h2 id="2-modeling-earths-motion-around-the-sun">2. Modeling Earth’s Motion around the Sun</h2>
 <p>The Earth will be modeled as moving in a circle around the Sun.  The direction to the Center of the Galaxy(GC) is also included becuase it will eventually be needed for the 
@@ -2882,7 +2882,7 @@ This is an opportunity to gather the whole class data and discuss the results.  
 
 <p>If you have a DSPIRA Radio Horn Telescope and the electronic means to use it, then there is an opportunity to have the students gather actual data from the Center of the Galaxy and run their own spectrum through the same set of analysis that was done in this activity sequence (namely, acitivities 2, 5, and 6)</p>
 
-<p><img src="/dspira-lessons/images/Students_Obs_GC.png" alt="Students Observing the Galactic Center with a Radio Horn" /></p>
+<p><img src="/images/Students_Obs_GC.png" alt="Students Observing the Galactic Center with a Radio Horn" /></p>
 
 <h6 id="students-observing-the-galactic-center-with-a-radio-horn">*Students Observing the Galactic Center with a Radio Horn</h6>
 
@@ -2908,7 +2908,7 @@ This is an opportunity to gather the whole class data and discuss the results.  
                 <link>http://localhost:4000/Astro_MWG</link>
                 <content:encoded>
                     <![CDATA[
-                    <p><img src="/dspira-lessons/images/DspiraGalaxyPic2019.jpg" alt="&quot;DSPIRA Group July 2019, Green Bank, WV&quot;" /></p>
+                    <p><img src="/images/DspiraGalaxyPic2019.jpg" alt="&quot;DSPIRA Group July 2019, Green Bank, WV&quot;" /></p>
 <h6 id="dspira-summer-session---july-2019---green-bank-west-virginia"><em>DSPIRA Summer Session - July 2019 - Green Bank, West Virginia</em></h6>
 
 <p>At the heart of the DSPIRA Experience is the development of the Radio Horn Telescope. It is truly amazing that we can built a low cost device that can reveals secrets from Radio Waves in space.  However, like a starter telescope purchased at a department store can’t see all the wonders that the Hubble Space Telescope can, the DSPIRA Horn Telescope will only be able to detect the brightest radio sources.</p>
@@ -2932,7 +2932,7 @@ This is an opportunity to gather the whole class data and discuss the results.  
 
 <p>This activity may have already been done as a stand alone, or as part of the Earth’s Motion sequence. It does have the students determine the speed of the Sun around the Milky Way, so they can do it now, or recall the value from earlier work.</p>
 
-<h6 id="-click-for-link-to-how-fast-are-we-moving-page">&gt; Click for link to <a href="http://wvurail.org/dspira-lessons/HowFastAreWeMoving">How Fast Are We Moving?</a> page</h6>
+<h6 id="-click-for-link-to-how-fast-are-we-moving-page">&gt; Click for link to <a href="http://dspira-lessons.github.io/HowFastAreWeMoving">How Fast Are We Moving?</a> page</h6>
 
 <h2 id="2-understanding-celestial-coordinate-systems">2. Understanding Celestial Coordinate Systems</h2>
 
@@ -2940,7 +2940,7 @@ This is an opportunity to gather the whole class data and discuss the results.  
 
 <p>This, too, is a separate stand alone lesson within this DSPIRA space.</p>
 
-<h6 id="-click-for-link-to-understanding-celestial-coordinates-page">&gt; Click for link to <a href="https://wvurail.org//dspira-lessons/A2UnderstandingCeleCoords">Understanding Celestial Coordinates</a> page</h6>
+<h6 id="-click-for-link-to-understanding-celestial-coordinates-page">&gt; Click for link to <a href="https://dspira-lessons.github.io//A2UnderstandingCeleCoords">Understanding Celestial Coordinates</a> page</h6>
 
 <h2 id="3-using-stellarium-to-find-the-galactic-center">3. Using Stellarium to Find the Galactic Center</h2>
 

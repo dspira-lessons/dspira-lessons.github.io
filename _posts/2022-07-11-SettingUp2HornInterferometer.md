@@ -9,7 +9,7 @@ categories: ['Horn Construction']
 
 ## Procedure for Setting Up a 2 Horn Interferometer
 
-These are instructions for how to set up and run a 2 horn interferometer using a Lime SDR with GNURadio. The GNURadio spectrometer programs write time-stamped data files once every integration time. For the adding spectrometer, called [Interferometer_SimpleSpectrometer_Adding.grc](https://github.com/WVURAIL/dspira-lessons/blob/master/FilesUploaded/interferometer_simpleSpectrometer_Lime_adding.grc), the data includes horn A spectra, horn B spectra, and the power spectra from the sum of their signals. For the multiplying spectrometer, called [Interferometer_SimpleSpectrometer_Multiplying.grc](https://github.com/WVURAIL/dspira-lessons/blob/master/FilesUploaded/interferometer_simpleSpectrometer_Lime_multiplying.grc), the data includes horn A spectra, horn B spectra, the magnitude of the interference, and the phase of the interference.
+These are instructions for how to set up and run a 2 horn interferometer using a Lime SDR with GNURadio. The GNURadio spectrometer programs write time-stamped data files once every integration time. For the adding spectrometer, called [Interferometer_SimpleSpectrometer_Adding.grc](https://github.com/dspira-lessons/dspira-lessons/blob/master/FilesUploaded/interferometer_simpleSpectrometer_Lime_adding.grc), the data includes horn A spectra, horn B spectra, and the power spectra from the sum of their signals. For the multiplying spectrometer, called [Interferometer_SimpleSpectrometer_Multiplying.grc](https://github.com/dspira-lessons/dspira-lessons/blob/master/FilesUploaded/interferometer_simpleSpectrometer_Lime_multiplying.grc), the data includes horn A spectra, horn B spectra, the magnitude of the interference, and the phase of the interference.
 
    1. List of Equipment
   
@@ -23,8 +23,8 @@ These are instructions for how to set up and run a 2 horn interferometer using a
         b. Electronics
 
             ▪ computer with the GNURadio spectrometer program on it:
-	            - adding spectrometer program:  [Interferometer_SimpleSpectrometer_Adding.grc](https://github.com/WVURAIL/dspira-lessons/blob/master/FilesUploaded/interferometer_simpleSpectrometer_Lime_adding.grc)
-	            - multiplying spectrometer program: [Interferometer_SimpleSpectrometer_Multiplying.grc](https://github.com/WVURAIL/dspira-lessons/blob/master/FilesUploaded/interferometer_simpleSpectrometer_Lime_multiplying.grc)
+	            - adding spectrometer program:  [Interferometer_SimpleSpectrometer_Adding.grc](https://github.com/dspira-lessons/dspira-lessons/blob/master/FilesUploaded/interferometer_simpleSpectrometer_Lime_adding.grc)
+	            - multiplying spectrometer program: [Interferometer_SimpleSpectrometer_Multiplying.grc](https://github.com/dspira-lessons/dspira-lessons/blob/master/FilesUploaded/interferometer_simpleSpectrometer_Lime_multiplying.grc)
             ▪ Lime SDR with USB cable to connect to a computer – This SDR can digitize 2 channels.
             ▪ 2 bias T's for powering the LNA's; the Lime does not provide power to the LNA’s.
             ▪ 5 V transformer to power the bias T's
@@ -47,9 +47,9 @@ These are instructions for how to set up and run a 2 horn interferometer using a
 
    2. Schematic Diagram and photo of the electrical connections
 
-        ![electrical connection schematic](https://github.com/WVURAIL/dspira-lessons/blob/master/FilesUploaded/Interferometer_electrical_schematic.png)
+        ![electrical connection schematic](https://github.com/dspira-lessons/dspira-lessons/blob/master/FilesUploaded/Interferometer_electrical_schematic.png)
 
-        ![electrical connection photo](https://github.com/WVURAIL/dspira-lessons/blob/master/FilesUploaded/interferometer_electrical_connections_photo.png)
+        ![electrical connection photo](https://github.com/dspira-lessons/dspira-lessons/blob/master/FilesUploaded/interferometer_electrical_connections_photo.png)
       
       
    3. Setting up the horns

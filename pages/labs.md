@@ -13,5 +13,5 @@ This space is for groups that use Radio Astronomy fundamentals and tools in clas
 Email to add your group!
 
 
-[All Labs](https://wvurail.org/dspira-lessons/categories/labs/){, :button}
+[All Labs](https://dspira-lessons.github.io/categories/labs/){, :button}
 

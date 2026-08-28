@@ -8,9 +8,9 @@ categories: ['Astronomy']
 ---
 
 
-+ [Basic theory of interferometry](https://wvurail.org/dspira-lessons/FilesUploaded/Interferometry_theory.pdf) - Basic theory describing additive and multipicative interferometry.
++ [Basic theory of interferometry](https://dspira-lessons.github.io/FilesUploaded/Interferometry_theory.pdf) - Basic theory describing additive and multipicative interferometry.
     
 
-+ [Using 2-Horn Interferometer for Additive Interferometry](https://wvurail.org/dspira-lessons/FilesUploaded/Interferometry_Additive_experimental.pdf) - Explanation of how to interpret additive interferometry results, with an example.
++ [Using 2-Horn Interferometer for Additive Interferometry](https://dspira-lessons.github.io/FilesUploaded/Interferometry_Additive_experimental.pdf) - Explanation of how to interpret additive interferometry results, with an example.
 
     

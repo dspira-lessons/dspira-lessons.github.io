@@ -3,8 +3,8 @@
   <channel>
     <title>Digital Signal Processing in Radio Astronomy - Lessons Portal</title>
     <description>Lots of lessons</description>
-    <link>http://localhost:4000/dspira-lessons/</link>
-    <atom:link href="http://localhost:4000/dspira-lessons/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Detailed Instructions for Assembling the CAN</title>
@@ -59,8 +59,8 @@
 &lt;p&gt;https://youtu.be/dH5D2EP3ODM&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/AssemblingtheCAN</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/AssemblingtheCAN</guid>
+        <link>http://localhost:4000/AssemblingtheCAN</link>
+        <guid isPermaLink="true">http://localhost:4000/AssemblingtheCAN</guid>
       </item>
     
       <item>
@@ -95,12 +95,12 @@
 
 &lt;h2 id=&quot;51-iq-signals-or-what-is-up-with-all-the-complex-numbers&quot;&gt;5.1. IQ signals &lt;em&gt;or&lt;/em&gt; What is up with all the Complex Numbers&lt;/h2&gt;
 
-&lt;p&gt;If you remember from the &lt;a href=&quot;/dspira-lessons/dsplab-sdr/#21-introduction&quot;&gt;lab 2 introduction&lt;/a&gt; an SDR dongle passes the incoming signal through a mixer where the receiver sets the frequency you observe by setting the “LO” frequency which is mixed (multiplied) with the incoming signal.  The signal is actually mixed with 2 LO’s, one cosine wave and one sine wave.  This is called quadrature sampling, and is done so that it is possible to distinguish a signal that is some frequency(say 2MHz) below the “LO” frequency, or 2MHz above the LO frequency.  With just a single mixing and one measurement, one just cannot distinguish between a signal at those two frequencies.&lt;/p&gt;
+&lt;p&gt;If you remember from the &lt;a href=&quot;/dsplab-sdr/#21-introduction&quot;&gt;lab 2 introduction&lt;/a&gt; an SDR dongle passes the incoming signal through a mixer where the receiver sets the frequency you observe by setting the “LO” frequency which is mixed (multiplied) with the incoming signal.  The signal is actually mixed with 2 LO’s, one cosine wave and one sine wave.  This is called quadrature sampling, and is done so that it is possible to distinguish a signal that is some frequency(say 2MHz) below the “LO” frequency, or 2MHz above the LO frequency.  With just a single mixing and one measurement, one just cannot distinguish between a signal at those two frequencies.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;images/05/img/iq.png&quot; alt=&quot;IQ&quot; /&gt;
 &lt;a href=&quot;#image-credits&quot;&gt;Credit&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/dspira-lessons/iq/&quot;&gt;See this jupyter notebook&lt;/a&gt; for an introduction to the idea.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/iq/&quot;&gt;See this jupyter notebook&lt;/a&gt; for an introduction to the idea.&lt;/p&gt;
 
 &lt;p&gt;Now demonstrate IQ processing in gnuradio.  We can demonstrate this at much lower frequencies as well.  Set the sample-rate to 48kHz.  Create 2 tones(cosine signals), one at 8kHz, one at 12kHz.  Create your LO at 10kHz, one a cosine and one a sine.&lt;/p&gt;
 
@@ -269,8 +269,8 @@ Where, where the sub-filter coefficients &lt;script type=&quot;math/tex&quot;&gt
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/dsplab-fourier2/</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/dsplab-fourier2/</guid>
+        <link>http://localhost:4000/dsplab-fourier2/</link>
+        <guid isPermaLink="true">http://localhost:4000/dsplab-fourier2/</guid>
       </item>
     
       <item>
@@ -531,8 +531,8 @@ Cascade multiple 8 point average filters (i.e. connect end to start). This will 
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/dsplab-filters/</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/dsplab-filters/</guid>
+        <link>http://localhost:4000/dsplab-filters/</link>
+        <guid isPermaLink="true">http://localhost:4000/dsplab-filters/</guid>
       </item>
     
       <item>
@@ -742,8 +742,8 @@ f(x) =
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/dsplab-fourier1/</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/dsplab-fourier1/</guid>
+        <link>http://localhost:4000/dsplab-fourier1/</link>
+        <guid isPermaLink="true">http://localhost:4000/dsplab-fourier1/</guid>
       </item>
     
       <item>
@@ -996,8 +996,8 @@ NOAA 19 – 137.1000 MHz&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;↑ Go to the Top of the Page&lt;/a&gt; ……&lt;a href=&quot;../03&quot;&gt;Next Lab&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/dsplab-sdr/</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/dsplab-sdr/</guid>
+        <link>http://localhost:4000/dsplab-sdr/</link>
+        <guid isPermaLink="true">http://localhost:4000/dsplab-sdr/</guid>
       </item>
     
       <item>
@@ -1044,7 +1044,7 @@ NOAA 19 – 137.1000 MHz&lt;/p&gt;
 
 &lt;h2 id=&quot;11-installing-gnuradio&quot;&gt;1.1. Installing GNURadio&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;/dspira-lessons/BuildingHorn_SoftwareInfo&quot; class=&quot;button&quot;&gt;Software Info&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/BuildingHorn_SoftwareInfo&quot; class=&quot;button&quot;&gt;Software Info&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#&quot;&gt;↑ Go to the Top of the Page&lt;/a&gt;&lt;/p&gt;
 
@@ -1376,8 +1376,8 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/dsplab-intro/</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/dsplab-intro/</guid>
+        <link>http://localhost:4000/dsplab-intro/</link>
+        <guid isPermaLink="true">http://localhost:4000/dsplab-intro/</guid>
       </item>
     
       <item>
@@ -1412,15 +1412,15 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
 &lt;/table&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/dsp</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/dsp</guid>
+        <link>http://localhost:4000/dsp</link>
+        <guid isPermaLink="true">http://localhost:4000/dsp</guid>
       </item>
     
       <item>
         <title>Computer and Software Needs for the Horn Telescope Spectrometer</title>
         <description>&lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Installation of any of the following software options will allow the user to run the spectrometer program to operate a horn telescope that is equipped with an LNA, software defined radio (Airspy or equivalent), and the proper cables. See the document &lt;a href=&quot;https://wvurail.org/dspira-lessons/BuildingHornTelescope_Overview&quot;&gt;What is Needed to Build a Horn Telescope&lt;/a&gt; and links therein for more details about the telescope system.&lt;/p&gt;
+    &lt;p&gt;Installation of any of the following software options will allow the user to run the spectrometer program to operate a horn telescope that is equipped with an LNA, software defined radio (Airspy or equivalent), and the proper cables. See the document &lt;a href=&quot;https://dspira-lessons.github.io/BuildingHornTelescope_Overview&quot;&gt;What is Needed to Build a Horn Telescope&lt;/a&gt; and links therein for more details about the telescope system.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Different options for operating the horn telescope spectrometer program, &lt;em&gt;spectrometer_w_cal.grc&lt;/em&gt;, are presented here. The options provided vary depending on the user’s computer system and his or her comfort level working with computers.&lt;/p&gt;
@@ -1431,7 +1431,7 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://wvurail.org/dspira-lessons/Install_Ubuntu_spectrometer_onFlashdrive&quot;&gt;Download a fully operating image onto a flash drive that can be operated from most computer systems.&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://dspira-lessons.github.io/Install_Ubuntu_spectrometer_onFlashdrive&quot;&gt;Download a fully operating image onto a flash drive that can be operated from most computer systems.&lt;/a&gt;&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;
@@ -1459,12 +1459,12 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;
-        &lt;p&gt;Click &lt;a href=&quot;https://wvurail.org/dspira-lessons/Install_Ubuntu_spectrometer_onFlashdrive&quot;&gt;here&lt;/a&gt; for installation instructions.&lt;/p&gt;
+        &lt;p&gt;Click &lt;a href=&quot;https://dspira-lessons.github.io/Install_Ubuntu_spectrometer_onFlashdrive&quot;&gt;here&lt;/a&gt; for installation instructions.&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://wvurail.org/dspira-lessons/BuildingHorn_SoftwareInfo&quot;&gt;Install the free &amp;amp; open-source software, &lt;em&gt;GnuRadio&lt;/em&gt;, on a Linux system operating Ubuntu 20.04.&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://dspira-lessons.github.io/BuildingHorn_SoftwareInfo&quot;&gt;Install the free &amp;amp; open-source software, &lt;em&gt;GnuRadio&lt;/em&gt;, on a Linux system operating Ubuntu 20.04.&lt;/a&gt;&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;
@@ -1483,7 +1483,7 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
         &lt;p&gt;After installation, the computer will be able to run the telescope system directly.&lt;/p&gt;
       &lt;/li&gt;
       &lt;li&gt;
-        &lt;p&gt;Click &lt;a href=&quot;https://wvurail.org/dspira-lessons/BuildingHorn_SoftwareInfo&quot;&gt;here&lt;/a&gt; for installation instructions.&lt;/p&gt;
+        &lt;p&gt;Click &lt;a href=&quot;https://dspira-lessons.github.io/BuildingHorn_SoftwareInfo&quot;&gt;here&lt;/a&gt; for installation instructions.&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -1502,8 +1502,8 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/HornOperation_computerSystems</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/HornOperation_computerSystems</guid>
+        <link>http://localhost:4000/HornOperation_computerSystems</link>
+        <guid isPermaLink="true">http://localhost:4000/HornOperation_computerSystems</guid>
       </item>
     
       <item>
@@ -1520,7 +1520,7 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
   &lt;li&gt;The following is a picture of a typical soldering station. It is also called a rework station. The setup shown was purchased from Amazon for about $100. You can also go online and search for soldering irons, hot air guns, rework stations, and soldering stations.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/dspira-lessons/images/SolderingStation.JPG&quot; alt=&quot;A Typical Soldering Station&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/SolderingStation.JPG&quot; alt=&quot;A Typical Soldering Station&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;second-order-and-purchase-the-components-of-the-lna&quot;&gt;Second: Order and Purchase the Components of the LNA&lt;/h3&gt;
 
@@ -1598,8 +1598,8 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
 &lt;p&gt;Video link to be determined&lt;/p&gt;
 </description>
         <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/DetailedLNAInstructions</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/DetailedLNAInstructions</guid>
+        <link>http://localhost:4000/DetailedLNAInstructions</link>
+        <guid isPermaLink="true">http://localhost:4000/DetailedLNAInstructions</guid>
       </item>
     
       <item>
@@ -1663,8 +1663,8 @@ Otherwise you can open it by clicking on the “circuit board” icon next to th
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 07 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/dspira-lessons/Install_Ubuntu_spectrometer_onFlashdrive</link>
-        <guid isPermaLink="true">http://localhost:4000/dspira-lessons/Install_Ubuntu_spectrometer_onFlashdrive</guid>
+        <link>http://localhost:4000/Install_Ubuntu_spectrometer_onFlashdrive</link>
+        <guid isPermaLink="true">http://localhost:4000/Install_Ubuntu_spectrometer_onFlashdrive</guid>
       </item>
     
   </channel>

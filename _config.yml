@@ -3,8 +3,8 @@ title:       Digital Signal Processing in Radio Astronomy
 email:       wvurail@gmail.com
 author:      Pranav Sanghavi
 description: "Lots of lessons"
-baseurl:     "/dspira-lessons"
-url:         "https://wvurail.org/"
+baseurl:     "/"
+url:         "https://dspira-lessons.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
   - tour.md

@@ -13,4 +13,4 @@ To access the classroom activity click on the following link:
 
 Clicking on the following link will download the zip file to your computer. On a Mac computer it will automatically un-zip to your Downloads folder. On computers running Ubuntu, you will need to un-zip the file before using it in GNURadio. You can leave the un-zipped file in the Downloads folder.  
 
-[GNURadio .grc file for Fourier Activity](/dspira-lessons/images/Fourier_Series_Wave_Explorer.grc.zip){: button}
+[GNURadio .grc file for Fourier Activity](/images/Fourier_Series_Wave_Explorer.grc.zip){: button}

@@ -7,13 +7,13 @@ tags: ['School-Teachers', 'Students', 'Hobbyists' ]
 categories: ['Horn Operation', 'Horn Construction'] 
 ---
 
-- Installation of any of the following software options will allow the user to run the spectrometer program to operate a horn telescope that is equipped with an LNA, software defined radio (Airspy or equivalent), and the proper cables. See the document [What is Needed to Build a Horn Telescope](https://wvurail.org/dspira-lessons/BuildingHornTelescope_Overview) and links therein for more details about the telescope system.
+- Installation of any of the following software options will allow the user to run the spectrometer program to operate a horn telescope that is equipped with an LNA, software defined radio (Airspy or equivalent), and the proper cables. See the document [What is Needed to Build a Horn Telescope](https://dspira-lessons.github.io/BuildingHornTelescope_Overview) and links therein for more details about the telescope system.
 
 - Different options for operating the horn telescope spectrometer program, *spectrometer_w_cal.grc*, are presented here. The options provided vary depending on the user's computer system and his or her comfort level working with computers.
 
 The options presented below include a brief description of the system requirements and what is involved in the installation process.
 
-1. [Download a fully operating image onto a flash drive that can be operated from most computer systems.](https://wvurail.org/dspira-lessons/Install_Ubuntu_spectrometer_onFlashdrive)
+1. [Download a fully operating image onto a flash drive that can be operated from most computer systems.](https://dspira-lessons.github.io/Install_Ubuntu_spectrometer_onFlashdrive)
 
     - Easiest for those who are the less experienced in working with computer system software.
 
@@ -29,9 +29,9 @@ The options presented below include a brief description of the system requiremen
 
         - The software needed is to complete the installation is free and easy to install.
 
-    - Click [here](https://wvurail.org/dspira-lessons/Install_Ubuntu_spectrometer_onFlashdrive) for installation instructions.
+    - Click [here](https://dspira-lessons.github.io/Install_Ubuntu_spectrometer_onFlashdrive) for installation instructions.
     
-2. [Install the free & open-source software, *GnuRadio*, on a Linux system operating Ubuntu 20.04.](https://wvurail.org/dspira-lessons/BuildingHorn_SoftwareInfo)
+2. [Install the free & open-source software, *GnuRadio*, on a Linux system operating Ubuntu 20.04.](https://dspira-lessons.github.io/BuildingHorn_SoftwareInfo)
 
     - This option is for those who are more experienced with computers and feel comfortable installing software on a hard drive.
 
@@ -43,7 +43,7 @@ The options presented below include a brief description of the system requiremen
 
     - After installation, the computer will be able to run the telescope system directly.
 
-    - Click [here](https://wvurail.org/dspira-lessons/BuildingHorn_SoftwareInfo) for installation instructions.
+    - Click [here](https://dspira-lessons.github.io/BuildingHorn_SoftwareInfo) for installation instructions.
 
 3. Install the spectrometer program on a Raspberry Pi.
 

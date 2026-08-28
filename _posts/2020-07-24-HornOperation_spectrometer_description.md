@@ -16,7 +16,7 @@ You can also watch [this video](https://youtu.be/50B2Uv-SoDY), which describes t
 
 ### **1.	Features of the *Spectrum* Tab**
 
-![spectrometer screen](/dspira-lessons/images/filtered_nocal.png)
+![spectrometer screen](/images/filtered_nocal.png)
 
    * **Graphical Display** Boxes:
 
@@ -58,7 +58,7 @@ You can also watch [this video](https://youtu.be/50B2Uv-SoDY), which describes t
 
    * **Full or Clipped Spectrum**
 
-       - **Clipped spectrum** – In this display the ends of the spectrum, between 1414 and 1415 MHz and between 1423 and 1424 MHz, are clipped off. This removes the distracting background portions of the spectrum, as discussed in the *The System Background Signal* in the [What Can a Horn Telescope Measure?](http://wvurail.org/dspira-lessons/HornOperation_Intro) post.
+       - **Clipped spectrum** – In this display the ends of the spectrum, between 1414 and 1415 MHz and between 1423 and 1424 MHz, are clipped off. This removes the distracting background portions of the spectrum, as discussed in the *The System Background Signal* in the [What Can a Horn Telescope Measure?](http://dspira-lessons.github.io/HornOperation_Intro) post.
 
 
       - **Full spectrum** – This is self explanatory.
@@ -76,7 +76,7 @@ You can also watch [this video](https://youtu.be/50B2Uv-SoDY), which describes t
 
 ### **2.	Features of the *System Temp/Gain* Tab**
 
-   ![System Temp/Gain screen](/dspira-lessons/images/sys_T&G.png)
+   ![System Temp/Gain screen](/images/sys_T&G.png)
 
    * These graphs are not needed during most telescope runs. They are mainly for those who are interested in the quantitative performance of the telescope.
 

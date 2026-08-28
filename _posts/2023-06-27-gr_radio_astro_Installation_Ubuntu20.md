@@ -17,7 +17,7 @@ Complete the following steps:
    ```
       sudo apt install gnuradio gr-osmosdr airspy python3-h5py python3-ephem git cmake liborc-0.4-dev -y
    ```
-   3. To clone the repository: in the terminal, type and Enter: `git clone https://github.com/WVURAIL/gr-radio_astro.git`
+   3. To clone the repository: in the terminal, type and Enter: `git clone https://github.com/WVURAIL/gr-radio_astro`
 
    4. Switch to the gr-radio_astro directory: `cd gr-radio_astro`
 

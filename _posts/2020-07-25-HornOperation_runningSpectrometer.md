@@ -15,7 +15,7 @@ The video [here](https://youtu.be/Oo28QCEZe_g) explains how set up the horn and 
 
    * Check the user-defined settings illustrated below. These are the `Variable` blocks in the upper right corner of the Gnuradio canvas.
 
-      ![User-defined blocks](/dspira-lessons/images/UserDefinedBlocks.png)
+      ![User-defined blocks](/images/UserDefinedBlocks.png)
 
       - To change a value, double click on the box and then type the value in the Value box and hit OK.
 
@@ -50,7 +50,7 @@ The video [here](https://youtu.be/Oo28QCEZe_g) explains how set up the horn and 
 
    * The first screen that appears looks like the following:
 
-![Opening screen](/dspira-lessons/images/filtered_nocal.png)
+![Opening screen](/images/filtered_nocal.png)
 
    * This display is used for most observations that are uncalibrated.
 
