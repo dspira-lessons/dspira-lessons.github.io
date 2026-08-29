@@ -3,7 +3,7 @@ title:       Digital Signal Processing in Radio Astronomy
 email:       wvurail@gmail.com
 author:      Pranav Sanghavi
 description: "Lessons on the creation and use of a horn radio telescope."
-baseurl:     "/"
+baseurl:     ""
 url:         "https://dspira-lessons.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
