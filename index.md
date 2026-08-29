@@ -87,3 +87,6 @@ If you are an educator or a community organizer enthusiastic about radio astorno
 
 [Form to Request a Radio telescope](https://forms.gle/qLDGCD8CXNvGo9hS6){: .button}
 
+---
+
+This website is maintained by [Anna Liberty](https://gracefulliberty.com) who is not associated with West Virginia University.
