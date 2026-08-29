@@ -15,7 +15,7 @@ category: Telescope Hardware Setup
 
 **Instructions for assembling the horn and base, and acquiring the needed electronic components:**
 
-[1. **Horn-Can Assembly**](https://dspira-lessons.github.io//Horn_can) - Details on assembling the can with the horn panels are provided here.
+[1. **Horn-Can Assembly**]({{ site.baseurl }}/Horn_can) - Details on assembling the can with the horn panels are provided here.
 
 [2. **The Horn Cradle**](https://dspira-lessons.github.io/FilesUploaded/Cradle_Assembly_2021.pdf) - Includes instructions for assembling a frame to support the horn.
 
@@ -23,9 +23,9 @@ category: Telescope Hardware Setup
 
 [4. **A Completed Horn Assembled**](https://youtu.be/LT0h3Frd-_k) - A video showing how the horn-can, cradle, and base stand are assembled.
 
-[5. **Other Horn Designs**](https://dspira-lessons.github.io//Other_Horn_Designs) - Links to a DSPIRA mini-horn and to similar non-DSPIRA designs are provided here.
+[5. **Other Horn Designs**]({{ site.baseurl }}/Other_Horn_Designs) - Links to a DSPIRA mini-horn and to similar non-DSPIRA designs are provided here.
 
-[6. **The Low Noise Amplifier (LNA)**](https://dspira-lessons.github.io//LNA) - This is a critical component for successful telescope operation.
+[6. **The Low Noise Amplifier (LNA)**]({{ site.baseurl }}/LNA) - This is a critical component for successful telescope operation.
 
-[7. **Software Defined Radio (SDR) Options**](https://dspira-lessons.github.io//SDR) - An SDR is needed for digitizing the radio signal for the computer.
+[7. **Software Defined Radio (SDR) Options**]({{ site.baseurl }}/SDR) - An SDR is needed for digitizing the radio signal for the computer.
 

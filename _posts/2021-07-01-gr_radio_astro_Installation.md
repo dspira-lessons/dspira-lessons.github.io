@@ -9,7 +9,7 @@ categories: ['Telescope Software Setup']
 
 This will install the spectrometer program *spectrometer_w_cal.grc* as well as other useful radio astronomy GNURadio programs from the *gr_radio_astro* repository in GitHub.
 
-**NOTE:** The instructions on this page will install files for Ubuntu 22.04. If you are using Ubuntu 20.04 LTS, click [here](https://dspira-lessons.github.io//gr_radio_astro_Installation_Ubuntu20) for the installation.
+**NOTE:** The instructions on this page will install files for Ubuntu 22.04. If you are using Ubuntu 20.04 LTS, click [here]({{ site.baseurl }}/gr_radio_astro_Installation_Ubuntu20) for the installation.
 
 Complete the following steps:
 

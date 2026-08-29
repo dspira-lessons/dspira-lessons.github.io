@@ -20,23 +20,23 @@ From a high school or college class perspective, each topic has about one to two
 ### 1. Tools for Observational Astronomy 
 <img src="/images/Celestial_Sphere_-_Equatorial_Coordinate_System.png" align="left" width="120px"/> - If you are starting from ground zero in this discipline, then you will need to develop some basic tools, whether it is where to look in your hometown skies, through to understanding what “electromagnetic radiation” is, how “radio” fits and what we can learn from it.
 
-[Go to "Basic Tools" Activities](https://dspira-lessons.github.io//ObserveTools){: .button}
+[Go to "Basic Tools" Activities]({{ site.baseurl }}/ObserveTools){: .button}
 
 ### 2. Measuring the Earth's Speed around the Sun
 <img src="/images/EarthSun.png" align="left" width="150px"/> - The contains a traditional physics/astronomy examination of gravity to predict the speed of the Earth around the Sun. It also looks at the Doppler effect for measuring relative radial motion.  This all leads to using the radio horn telescope to observationally verify the speed of the Earth around the Sun by using the center of the Milky Way as a reference point.
 
-[Go to "Earth Around Sun" Activities](https://dspira-lessons.github.io//EarthAroundSun){: .button}
+[Go to "Earth Around Sun" Activities]({{ site.baseurl }}/EarthAroundSun){: .button}
  
 ### 3. The Milky Way Galaxy 
 <img src="/images/MWG.png" align="left" width="150px"/> - The radio horn telescope is best at detecting neutral hydrogen in the Milky Way Galaxy.  This topic takes on a set of lessons to familiarize you, or your students, with the basic nature of the Milky Way, with emphasis on understanding the rotational aspects of our home galaxy through modeling. 
 
-[Go to Milky Way Activities](https://dspira-lessons.github.io//Astro_MWG){: .button}
+[Go to Milky Way Activities]({{ site.baseurl }}/Astro_MWG){: .button}
  
 ### 4. Determining a Velocity Curve of the Milky Way Galaxy 
 <img src="/images/HIMap.png" align="left" width="170px"/>
 - This is the true culmination of the DSPIRA Program in that the radio horn telescope is constructed and will be used to explore some of the rotational nature of the Milky Way.  A rudimentary map of the Milky Way can begin to be constructed from the data from the scope.  This can then lead to discussions for the necessity of Dark Matter to account for the velocities being observed.  
 
-[Go to Velocity Curve Activities](https://dspira-lessons.github.io//Astronomy_VelocityCurve_Overview){: .button}
+[Go to Velocity Curve Activities]({{ site.baseurl }}/Astronomy_VelocityCurve_Overview){: .button}
  
 
 ### 5. Interferometry With Horn Telescopes
@@ -44,7 +44,7 @@ From a high school or college class perspective, each topic has about one to two
 The horn telescopes presented in the DSPIRA program can be used for interferometry. The spectra of the additive spectrometer can be interpreted using simple 2-slit diffraction concepts, which can be useful in an educational setting. However, using the horns to do multiplicative interferometry is more complex. Some basic interferometry theory will be presented here as well as methods for interpreting the spectra and possible investigations that can be done with a 2-horn interferometer.
 A link to a LightWork memo that describes the theory and operation of a simple additive interferometer is included.
 
-[Go to Interferometry Lessons](https://dspira-lessons.github.io//Interferometry){: .button}
+[Go to Interferometry Lessons]({{ site.baseurl }}/Interferometry){: .button}
 
 
 
