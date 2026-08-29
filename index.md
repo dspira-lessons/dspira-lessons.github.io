@@ -3,46 +3,50 @@ layout: page
 title: DSPIRA
 ---
 
-Digital Signal Processing in Radio Astronomy (DSPIRA) is an NSF Research Experiences for Teachers (RET) in Engineering and Computer Science Site at the West Virginia University Lane Department of Computer Science and Engineering.
+Digital Signal Processing in Radio Astronomy (DSPIRA) is a project for teaching radio astronomy through the construction and operation of [horn radio telescopes](https://en.wikipedia.org/wiki/Horn_antenna).
 
-Check out this short video for a quick introduction to DSPIRA
+DSPIRA is an NSF Research Experiences for Teachers (RET) in Engineering and Computer Science Site at the West Virginia University Lane Department of Computer Science and Engineering.
+
+Watch this short video for a quick introduction to DSPIRA.
 
 https://www.youtube.com/embed/mfUJNtRLFJY
 
-As explained in the video this program was designed to be provide teachers the training and materials in the field of Radio Astronomy. This acts as a stepping stone for an eclectic journey through science and engineering with the given context in Astronomy. The culmination of this program are lessons and exercises designed by the participating cohort of teachers themselves. These lessons involve all aspects of Radio astronomy from building a radio telescope  to its operation: 
+This program provides teachers with training and materials related to radio astronomy. The culmination of this program are lessons and exercises designed by these teachers which describe all aspects of constructing and operating a radio telescope.
+
 
 ---
 
 <img class="img-circle" style="float:left;" src="{{ site.baseurl }}/images/horn.jpeg">
 [Telescope Hardware Setup]({{ site.baseurl }}/categories/telescope-hardware-setup/){: .button} 
 
-A horn telescope, which consists of 3 major parts: the **antenna**, the **support stand**, and the **back-end electronics**, is easy to build. The cost is only a few hundred dollars. Click here for detailed instructions for constructing a horn telescope.
+A horn telescope, which consists of 3 major parts: the **antenna**, the **support stand**, and the **back-end electronics**, is easy to build. The cost is only a few hundred dollars. This section provides detailed instructions for constructing a horn telescope.
 
 ---
 
 <img class="img-circle" style="float:right;" src="{{ site.baseurl }}/images/GNURadio_image.png">
 [Telescope Software Setup]({{ site.baseurl }}/categories/telescope-software-setup/){: .button} 
 
-The horn telescope uses digital signal processing (DSP) technology to operate, which requires proper software to use. Click here for computer hardware and software options and detailed instructions for installing.
+The horn telescope uses digital signal processing (DSP) technology to operate, which requires proper software to use. This section provides information about computer hardware and software options and detailed installation instructions.
 
 ---
 
 <img class="img-circle" style="float:right;" src="{{ site.baseurl }}/images/horn-ops.jpeg">
 [Basic Telescope Operations]({{ site.baseurl }}/categories/telescope-operation/){: .button} 
 
-You've built a horn telescope. Now what? How do I set it up? How do I take measurements with it? No problem! Click here for detailed instructions for operating a DSPIRA horn telescope, including instructions for doing interferometry with two horns. 
+You've built a horn telescope. Now what? How do I set it up? How do I take measurements with it? No problem! This section provides detailed instructions for operating a DSPIRA horn telescope, including instructions for doing interferometry with two horns. 
 
 ---
 
 [Digital Signal Processing]({{ site.baseurl}}/categories/digital-signal-processing/){: .button}
 
-Activities using GnuRadio for digital signal processing. 
+Activities using GNU Radio for digital signal processing.
+
 ---
 
 <img class="img-circle" style="float:left;" src="{{ site.baseurl }}/images/astronomy.jpg">
 [Astronomy]({{ site.baseurl}}/categories/astronomy/){: .button}
 
-The radio horn telescope to be used for some basic observation and research that could be done at the high school level, or for enthusiast hobbyists. Click here to access the Astronomy Module, which delves into the topics within astronomy that can be investigated using a horn telescope.  
+The radio horn telescope can be used for basic observation and research that can be done by anyone from high school students to enthusiast hobbyists. The astronomy module explores the topics within astronomy that can be investigated using a horn telescope.
 
 ---
 
