@@ -65,7 +65,7 @@ All of our offerings are here:
 
 ---
 
-If you would like to contribute to your own radio astronomy lessons please [email us](mailto:pranav.sanghavi@mail.wvu.edu) and use this:
+If you would like to contribute to your own radio astronomy lessons please follow these instructions and [open a pull request](https://github.com/dspira-lessons/dspira-lessons/pulls/):
 
 [New post]({{ site.baseurl}}/newpost/){: .button}
 
