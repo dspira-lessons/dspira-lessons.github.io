@@ -79,7 +79,7 @@ OBJECTIVE: These activities allow this *Velocity Curve of the MWG* module be abl
 
 * [Introduction to Horn Telescope](/FilesUploaded/VelocityCurve_HornIntro.pdf){: .button}
    
-* [Introduction to Horn Telescope Follow-up](/FilesUploaded/VelocityCurve_HornIntro_Followup.pdf) {: .button}
+* [Introduction to Horn Telescope Follow-up](/FilesUploaded/VelocityCurve_HornIntro_Followup.pdf){: .button}
    
 * [The Electromagnetic Spectrum](/FilesUploaded/VelocityCurve_E%26MSpectrum.pdf){: .button}
    
