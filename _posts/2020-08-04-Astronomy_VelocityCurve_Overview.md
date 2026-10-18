@@ -94,39 +94,39 @@ OBJECTIVE: These activities allow this *Velocity Curve of the MWG* module be abl
 
 OBJECTIVE: In this activity, the students collect spectra of the MWG along the galactic plane in quadrants II & III. From these they should be able to deduce that the MWG is rotating and the direction of rotation.
 
-[Teacher Notes for Part 1](https://docs.google.com/document/d/1h9is9YnnfDidLnlvs-DnXlyzXIjT0EhrLDdnONAByHg/edit?usp=sharing){: .button}
+[Teacher Notes for Part 1](/FilesUploaded/VelocityCurve_Activity_Part_1_Teacher_Notes.pdf){: .button}
 
-[Student Handout for Part 1 Observation](https://docs.google.com/document/d/1jcMV-8X8Cd7rryGCsednTlc0fFRrgvAGkFyJUQAGJh8/edit?usp=sharing){: .button}
+[Student Handout for Part 1 Observation](/FilesUploaded/VelocityCurve_Activity_Part_1_Observations.pdf){: .button}
 
-[Student Handout for Part 1 Analysis & Interpretation](https://docs.google.com/document/d/1aVUFzAvC14gPeV6RSYumYPlkclgILeoaI5LpUZNSV5U/edit?usp=sharing){: .button}
+[Student Handout for Part 1 Analysis & Interpretation](/FilesUploaded/VelocityCurveActivity_Part1_Conclusions.pdf){: .button}
 
 
 ### Part 2: Galactic Quadrant I Observation
 
 OBJECTIVE: In this activity, the students collect spectra of the MWG along the galactic plane in quadrant I. The students will determine the speeds of the most red-shifted part of the spectra, and then apply the tangent method to determine the galaxy's velocity as a function of distance from the galactic center.
 
-[Teacher Notes for Part 2](https://docs.google.com/document/d/1BSLoZjrFtA2qEoVzgvXjHdufQFRWmxtQWSAl8k1yJu8/edit?usp=sharing){: .button}
+[Teacher Notes for Part 2](/FilesUploaded/VelocityCurveActivity_Part2_TeacherNotes.pdf){: .button}
 
-[Student Handout for Part 2 Observation](https://docs.google.com/document/d/1V4wUx8VtX358x-gIWdH9FaYi3579bz_Unl38_ShrbKE/edit?usp=sharing){: .button}
+[Student Handout for Part 2 Observation](/FilesUploaded/VelocityCurveActivity_Part2_Observations.pdf){: .button}
 
-[Student Handout for Part 2 Analysis & Interpretation](https://docs.google.com/document/d/1J9w1DH5fQW24XDvesYTzsR943Px_13uTZQQS5qi6rxg/edit?usp=sharing){: .button}
+[Student Handout for Part 2 Analysis & Interpretation](/FilesUploaded/VelocityCurveActivity_Part2_Conclusions.pdf){: .button}
 
 
 
  Velocity Curve Lessons
 
-   * [Galactic Plane Quadrants II&III Observations: Teacher Notes](https://docs.google.com/document/d/1h9is9YnnfDidLnlvs-DnXlyzXIjT0EhrLDdnONAByHg/edit?usp=sharing)
+   * [Galactic Plane Quadrants II&III Observations: Teacher Notes](/FilesUploaded/VelocityCurveActivity_Part1_TeacherNotes.pdf)
    
-   * [Galactic Plane Quadrants II&III Observations](https://docs.google.com/document/d/1jcMV-8X8Cd7rryGCsednTlc0fFRrgvAGkFyJUQAGJh8/edit)
+   * [Galactic Plane Quadrants II&III Observations](/FilesUploaded/VelocityCurveActivity_Part1_Observations.pdf)
    
-   * [Galactic Plane Quadrants II&III Observations: Conclusions](https://docs.google.com/document/d/1aVUFzAvC14gPeV6RSYumYPlkclgILeoaI5LpUZNSV5U/edit)
+   * [Galactic Plane Quadrants II&III Observations: Conclusions](/FilesUploaded/VelocityCurveActivity_Part1_Conclusions.pdf)
       
-   * [Galactic Plane Quadrant I Observations: Teacher Notes](https://docs.google.com/document/d/1BSLoZjrFtA2qEoVzgvXjHdufQFRWmxtQWSAl8k1yJu8/edit)
+   * [Galactic Plane Quadrant I Observations: Teacher Notes](/FilesUploaded/VelocityCurveActivity_Part2_TeacherNotes.pdf)
    
-   * [Galactic Plane Quadrant I Observations](https://docs.google.com/document/d/1V4wUx8VtX358x-gIWdH9FaYi3579bz_Unl38_ShrbKE/edit)
+   * [Galactic Plane Quadrant I Observations](/FilesUploaded/VelocityCurveActivity_Part2_Observations.pdf)
    
-   * [Galactic Plane Quadrant I Observations: The Tangent Method](https://docs.google.com/document/d/1wA_tVKYrAyjvuVqUY9c_stwNpO1dGDFnIL6TiHq5hx8/edit?usp=sharing)   
+   * [Galactic Plane Quadrant I Observations: The Tangent Method](/FilesUploaded/VelocityCurveActivity_TangentMethod.pdf)   
    
-   * [Galactic Plane Quadrant I Observations: Analysis & Conclusions](https://docs.google.com/document/d/1J9w1DH5fQW24XDvesYTzsR943Px_13uTZQQS5qi6rxg/edit)  
+   * [Galactic Plane Quadrant I Observations: Analysis & Conclusions](/FilesUploaded/VelocityCurveActivity_Part2_Conclusions.pdf)  
 
 
