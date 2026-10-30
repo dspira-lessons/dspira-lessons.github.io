@@ -85,12 +85,6 @@ This series is intended to encourage the public in the United States, and throug
 
 [Lightwork Memos](https://wvurail.org/lightwork/){: .button}
 
-# Request a Radio Telescope kit
-
-If you are an educator or a community organizer enthusiastic about radio astornomy and are slowed down by access to equipment such as SDR dongles and 21cm LNAs you can fill out the following form to request a starter kit. We can ship them to you until supplies last. Please fill within the form your shipment details and your tentative plans or the work you have conducted with your students/community. 
-
-[Form to Request a Radio telescope](https://forms.gle/qLDGCD8CXNvGo9hS6){: .button}
-
 ---
 
 This website is maintained by [Anna Liberty](https://gracefulliberty.com) who is not associated with West Virginia University.
